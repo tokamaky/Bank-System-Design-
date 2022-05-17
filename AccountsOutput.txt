@@ -1,4 +1,0 @@
-133070  Crispin Long  cris@lab6.com  334455  4450.0
-133092  Brand Terry  bra@lab6.com  443366  3300.28
-133008  Mark Rancy  mar@lab6.com  765123  6400.0
-133005  Jean Puddy  jean@lab6.com  432145  3000.65
